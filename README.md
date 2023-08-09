@@ -10,4 +10,4 @@
 
    ##
 
-![Snake Animation](https://github.com/LeroZanatta/Lerozanatta/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/LeroZanatta)
