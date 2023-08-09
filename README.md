@@ -9,5 +9,3 @@
 </div>
 
    ##
-
-![Snake Animation](https://github.com/LeroZanatta)
